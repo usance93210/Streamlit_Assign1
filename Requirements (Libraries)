@@ -1,0 +1,9 @@
+streamlit
+numpy
+pandas
+pickle
+base64
+time
+matplotlib.pyplot
+altair
+graphviz
